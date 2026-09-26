@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-mitre-cwe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MITRE CWE API MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-67a159470d3f5d5475e97432cad823f7ab911577c537699b32141da2277c106f",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-3956ead6cc4d388c1252e8ed886a907e4a7d9f9915810defba9ede5dad0c322c",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
